@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 
-- [Acesse a aplicação finalizada, online](https://bernardosa01.github.io/NLW-)
+- [Acesse a aplicação finalizada, online](https://nlw-journey-brs.vercel.app/)
 <br><br>
 
 <p align="center">
